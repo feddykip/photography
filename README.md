@@ -10,4 +10,4 @@ This is my photography website
 * To give a brief biography of my photos
 
 ### licence 
-Ferdinand Kiplangat,Moringa school
+© Ferdinand Kiplangat
