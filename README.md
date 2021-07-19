@@ -9,5 +9,3 @@ This is my photography website
 * To display photos from my adventures
 * To give a brief biography of my photos
 
-### license 
-© Ferdinand Kiplangat
