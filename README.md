@@ -2,9 +2,9 @@
 This is my photography website
 
 ## Built with
-HTML - Website is built with html document
+*HTML - Website is built with html document
 
-Css - It has been styled with css
+*Css - It has been styled with css
 
 ### To-do
 * To display photos from my adventures
